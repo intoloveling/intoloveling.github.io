@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+<h1 align="center">Sagiri</h1>
+<h3 align="center">As lovely as sagiri</h3>
+    
+[![stars](https://flat.badgen.net/github/stars/cetr/halo-theme-sagiri)](https://github.com/cetr/halo-theme-sagiri)
+[![release](https://img.shields.io/github/v/release/cetr/halo-theme-sagiri.svg?style=flat-square)](https://github.com/cetr/halo-theme-sagiri)
 
-You can use the [editor on GitHub](https://github.com/intoloveling/intoloveling.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+此主题移植于 DIYgod 大佬的个人博客，已提供多种可自行修改的设置
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 预览
 
-### Markdown
+作者：[https://coor.top](https://coor.top)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![screenshot.png](https://cdn.jsdelivr.net/gh/cetr/halo-theme-sagiri@latest/screenshot.png)
 
-```markdown
-Syntax highlighted code block
+## 安装
 
-# Header 1
-## Header 2
-### Header 3
+#### 压缩包上传方式（推荐）
 
-- Bulleted
-- List
+1. 下载最新发行版zip压缩包到本地 [点击前往](https://github.com/cetr/halo-theme-sagiri/releases)
+2. 进入博客后台-外观-主题-安装
+3. 选择本地上传，将压缩包上传上去
+4. 等待提示安装完成
 
-1. Numbered
-2. List
+#### 在线拉取方式
 
-**Bold** and _Italic_ and `Code` text
+1. 进入博客后台-外观-主题-安装
+2. 选择远程下载
+3. 远程地址填写 `https://github.com/cetr/halo-theme-sagiri.git`
+5. 点击下载，等待下载完成
 
-[Link](url) and ![Image](src)
-```
+**主题个性化的配置请在 Sagiri 的主题设置中设置！**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## 贡献
 
-### Jekyll Themes
+如果你想 Sagiri 更加完善，你可以为它：
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/intoloveling/intoloveling.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- 点 star
+- 提 issues
+- 修 bugs
+- 推 pr
 
-### Support or Contact
+如果你有一下建议，可以在 [issues](https://github.com/cetr/halo-theme-sagiri/issues) 提出
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 感谢
+
+- [DIYgod](https://diygod.me)
